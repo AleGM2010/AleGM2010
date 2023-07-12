@@ -1,4 +1,4 @@
-### ¡Hola, soy Alesandro! 🎮 Apasionado de los videojuegos y amante de la creación de experiencias interactivas.
+### ¡Hola, soy Alesandro! 🎮 Apasionado de los videojuegos y la programación.
 
 🕹️ Con un estudio dedicado y horas de inmersión en títulos como Dark Souls 3, Elden Ring, Heroes of Might and Magic 3, Minecraft, Age of Empires y shooters clásicos, he cultivado mi pasión por los juegos y su impacto en el mundo del entretenimiento.
 

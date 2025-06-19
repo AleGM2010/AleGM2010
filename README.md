@@ -6,7 +6,9 @@
 
 🤝 Confiar en un grupo colaborativo es fundamental para mí, ya que creo en el poder de la sinergia y la combinación de habilidades para lograr resultados extraordinarios. Estoy emocionado por sumergirme en proyectos desafiantes y trabajar en estrecha colaboración con personas apasionadas por el desarrollo de videojuegos.
 
-Siempre estoy abierto a nuevas oportunidades, aprendiendo y creciendo en este emocionante campo. ¡Hagamos que la magia suceda en el mundo de los videojuegos juntos! ✨
+Siempre estoy abierto a nuevas oportunidades, aprendiendo y creciendo en este emocionante campo.
+
+Asi mismo he realizado cursos y Tech acceleration en Python/Django para Fullstack web Development junto a tecnologias como Bootstrap 
 
 #Gamedev #CreadorDeMundos #DesarrolladorDeVideojuegos
 
@@ -18,6 +20,12 @@ Siempre estoy abierto a nuevas oportunidades, aprendiendo y creciendo en este em
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" heigth="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="50" heigth="50">
     <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" title="ChatGPT" alt="ChatGPT" width="50" height="50">
+    <img src="https://img.icons8.com/?size=48&id=USGXKHXKl9X7&format=png" title="Grok" alt="Grok" width="50" height="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" heigth="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="50" heigth="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="Html5" alt="Html5" width="50" heigth="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" heigth="50">
+
     
   </div>
 </div>
